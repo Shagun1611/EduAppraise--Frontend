@@ -1,0 +1,11 @@
+.modalContainer{
+    position: absolute;
+    top: 15vh;
+    left: 25%;
+    width: 50%;
+    height: 80%;
+    background-color: #B3F3F2;
+    border-radius: var(--br-md);
+    overflow-y: auto;
+    overflow-x: hidden;
+}

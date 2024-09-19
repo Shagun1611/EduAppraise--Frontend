@@ -1,0 +1,158 @@
+[
+	{
+		"_id": { "$oid": "66e98158eebb65a056a2c820" },
+		"name": "Anjali Sharma",
+        "status": "Pending",
+		"designation": "Professor",
+		"phoneNo": "091234567890",
+		"email": "anjali.sharma@gmail.com",
+		"department": "Computer Science",
+		"dateOfAppointment": "1615321600000",
+		"dateOfLastPromotion": "1676531200000",
+		"coursesTaught": ["Data Structures", "Algorithms"],
+		"publications": ["Journal of Computer Science"],
+		"projects": "AI-based Language Processing",
+		"certifications": ["Certified AI Professional"],
+		"goals": [
+			{
+				"goal": "Develop advanced AI algorithms",
+				"progress": "30% completed",
+				"_id": { "$oid": "66e98158eebb65a056a2c821" }
+			}
+		],
+		"performanceRating": { "$numberInt": "5" },
+		"createdAt": "1616579032785",
+		"updatedAt": "1616579032785",
+		"__v": { "$numberInt": "0" }
+	},
+	{
+		"_id": { "$oid": "66e98158eebb65a056a2c822" },
+		"name": "Rajesh Gupta",
+        "status": "Approved",
+		"designation": "Lecturer",
+		"phoneNo": "092345678901",
+		"email": "rajesh.gupta@gmail.com",
+		"department": "Electrical Engineering",
+		"dateOfAppointment": "1635321600000",
+		"dateOfLastPromotion": "1696531200000",
+		"coursesTaught": ["Power Systems", "Control Engineering"],
+		"publications": ["none"],
+		"projects": "none",
+		"certifications": ["none"],
+		"goals": [
+			{
+				"goal": "Improve power efficiency in electrical grids",
+				"progress": "20% completed",
+				"_id": { "$oid": "66e98158eebb65a056a2c823" }
+			}
+		],
+		"performanceRating": { "$numberInt": "3" },
+		"createdAt": "1636579032785",
+		"updatedAt": "1636579032785",
+		"__v": { "$numberInt": "0" }
+	},
+	{
+		"_id": { "$oid": "66e98158eebb65a056a2c824" },
+		"name": "Priya Singh",
+        "status": "Pending",
+		"designation": "Assistant Professor",
+		"phoneNo": "093456789012",
+		"email": "priya.singh@gmail.com",
+		"department": "Civil Engineering",
+		"dateOfAppointment": "1645321600000",
+		"dateOfLastPromotion": "1706531200000",
+		"coursesTaught": ["Structural Analysis", "Geotechnical Engineering"],
+		"publications": ["Structural Engineering Journal"],
+		"projects": "Seismic Risk Assessment",
+		"certifications": ["Certified Structural Engineer"],
+		"goals": [
+			{
+				"goal": "Develop earthquake-resistant structures",
+				"progress": "75% completed",
+				"_id": { "$oid": "66e98158eebb65a056a2c825" }
+			}
+		],
+		"performanceRating": { "$numberInt": "4" },
+		"createdAt": "1646579032785",
+		"updatedAt": "1646579032785",
+		"__v": { "$numberInt": "0" }
+	},
+	{
+		"_id": { "$oid": "66e98158eebb65a056a2c826" },
+		"name": "Manoj Verma",
+        "status": "Approved",
+		"designation": "Associate Professor",
+		"phoneNo": "094567890123",
+		"email": "manoj.verma@gmail.com",
+		"department": "Mechanical Engineering",
+		"dateOfAppointment": "1655321600000",
+		"dateOfLastPromotion": "1716531200000",
+		"coursesTaught": ["Machine Design", "Robotics"],
+		"publications": ["Advanced Robotics Journal"],
+		"projects": "Automation in Manufacturing",
+		"certifications": ["Certified Robotics Expert"],
+		"goals": [
+			{
+				"goal": "Develop autonomous robots for industrial use",
+				"progress": "60% completed",
+				"_id": { "$oid": "66e98158eebb65a056a2c827" }
+			}
+		],
+		"performanceRating": { "$numberInt": "5" },
+		"createdAt": "1656579032785",
+		"updatedAt": "1656579032785",
+		"__v": { "$numberInt": "0" }
+	},
+	{
+		"_id": { "$oid": "66e98158eebb65a056a2c828" },
+		"name": "Deepika Rao",
+        "status": "Rejected",
+		"designation": "Lecturer",
+		"phoneNo": "095678901234",
+		"email": "deepika.rao@gmail.com",
+		"department": "Information Technology",
+		"dateOfAppointment": "1665321600000",
+		"dateOfLastPromotion": "1726531200000",
+		"coursesTaught": ["Database Management", "Software Engineering"],
+		"publications": ["none"],
+		"projects": "none",
+		"certifications": ["none"],
+		"goals": [
+			{
+				"goal": "none",
+				"progress": "Become proficient in AI",
+				"_id": { "$oid": "66e98158eebb65a056a2c829" }
+			}
+		],
+		"performanceRating": { "$numberInt": "3" },
+		"createdAt": "1666579032785",
+		"updatedAt": "1666579032785",
+		"__v": { "$numberInt": "0" }
+	},
+	{
+		"_id": { "$oid": "66e98158eebb65a056a2c82a" },
+		"name": "Neha Mehta",
+        "status": "Rejected",
+		"designation": "Assistant Professor",
+		"phoneNo": "096789012345",
+		"email": "neha.mehta@gmail.com",
+		"department": "Biotechnology",
+		"dateOfAppointment": "1675321600000",
+		"dateOfLastPromotion": "1736531200000",
+		"coursesTaught": ["Genetic Engineering", "Microbiology"],
+		"publications": ["Journal of Biotechnology"],
+		"projects": "Genomic Sequencing",
+		"certifications": ["Certified Biotech Researcher"],
+		"goals": [
+			{
+				"goal": "Complete a research paper on CRISPR",
+				"progress": "40% completed",
+				"_id": { "$oid": "66e98158eebb65a056a2c82b" }
+			}
+		],
+		"performanceRating": { "$numberInt": "5" },
+		"createdAt": "1676579032785",
+		"updatedAt": "1676579032785",
+		"__v": { "$numberInt": "0" }
+	}
+]

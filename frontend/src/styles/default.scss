@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: var(--fs-md);
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    // background-color: white;
+    // background: url('../assets/Images/bg\ light.jpg');
+    // background-size: cover;
+    // background-repeat: no-repeat;
+    // background-attachment: fixed;
+    flex: 1;
+    background: linear-gradient(-45deg, #d4f8e8, #c7f9cc, #aaffd9, #aeffa3);
+    background-size: 400% 400%;
+    animation: gradientAnimation 6s ease-in-out infinite;
+    padding-bottom: 20px;
+    min-height: 100vh; 
+}
+@keyframes gradientAnimation {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+
+::-webkit-scrollbar-track{
+    background-color: #90EAEB;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: black;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+
+input{
+    outline: none;
+}

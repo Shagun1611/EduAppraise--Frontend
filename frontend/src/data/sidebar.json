@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Dashboard",
+        "icon": "ion:home",
+        "path": "/home"
+    },
+    {
+        "name": "Appraisal Management",
+        "icon": "solar:document-bold",
+        "path": "/appraisalManagement"
+    },
+    {
+        "name": "Report Generation",
+        "icon": "material-symbols:download",
+        "path": "/report"
+    },
+    {
+        "name": "Settings",
+        "icon": "material-symbols:settings",
+        "path": "/settings"
+    },
+    {
+        "name": "Add Appraisal",
+        "icon": "material-symbols:add",
+        "path": "/add"
+    }
+]

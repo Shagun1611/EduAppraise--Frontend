@@ -1,0 +1,92 @@
+[
+    {
+        "name": "John Smith",
+        "email": "abc123@university.com",
+        "department": "Computer Science",
+        "joiningDate": "2015-08-15",
+        "status": "Active",
+        "appraisalScore": 85,
+        "rank": 10
+    },
+    {
+        "name": "Jane Johnson",
+        "email": "def456@university.com",
+        "department": "Mathematics",
+        "joiningDate": "2018-06-21",
+        "status": "Active",
+        "appraisalScore": 92,
+        "rank": 10
+    },
+    {
+        "name": "Alice Williams",
+        "email": "ghi789@university.com",
+        "department": "Physics",
+        "joiningDate": "2012-11-05",
+        "status": "On Leave",
+        "appraisalScore": 78,
+        "rank": 10
+    },
+    {
+        "name": "Bob Brown",
+        "email": "jkl012@university.com",
+        "department": "Chemistry",
+        "joiningDate": "2020-03-30",
+        "status": "Active",
+        "appraisalScore": 88,
+        "rank": 10
+    },
+    {
+        "name": "Charlie Jones",
+        "email": "mno345@university.com",
+        "department": "Biology",
+        "joiningDate": "2016-01-19",
+        "status": "Retired",
+        "appraisalScore": 67,
+        "rank": 10
+    },
+    {
+        "name": "David Miller",
+        "email": "pqr678@university.com",
+        "department": "Engineering",
+        "joiningDate": "2011-12-11",
+        "status": "Active",
+        "appraisalScore": 90,
+        "rank": 10
+    },
+    {
+        "name": "Ella Davis",
+        "email": "stu901@university.com",
+        "department": "Economics",
+        "joiningDate": "2019-09-23",
+        "status": "Active",
+        "appraisalScore": 95,
+        "rank": 10
+    },
+    {
+        "name": "Frank Garcia",
+        "email": "vwx234@university.com",
+        "department": "History",
+        "joiningDate": "2013-07-07",
+        "status": "On Leave",
+        "appraisalScore": 72,
+        "rank": 10
+    },
+    {
+        "name": "Grace Rodriguez",
+        "email": "yz1234@university.com",
+        "department": "English",
+        "joiningDate": "2017-02-28",
+        "status": "Active",
+        "appraisalScore": 83,
+        "rank": 10
+    },
+    {
+        "name": "Henry Wilson",
+        "email": "abc567@university.com",
+        "department": "Philosophy",
+        "joiningDate": "2010-05-15",
+        "status": "Retired",
+        "appraisalScore": 65,
+        "rank": 10
+    }
+]

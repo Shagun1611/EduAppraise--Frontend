@@ -1,0 +1,72 @@
+[
+    {
+        "facultyName": "John Smith",
+        "submissionDate": "2024-08-15",
+        "status": "Pending",
+        "appraisalScore": 85,
+        "lastUpdated": "2024-08-20"
+    },
+    {
+        "facultyName": "Jane Johnson",
+        "submissionDate": "2024-07-25",
+        "status": "Approved",
+        "appraisalScore": 92,
+        "lastUpdated": "2024-08-01"
+    },
+    {
+        "facultyName": "Alice Williams",
+        "submissionDate": "2024-06-10",
+        "status": "Rejected",
+        "appraisalScore": 78,
+        "lastUpdated": "2024-07-15"
+    },
+    {
+        "facultyName": "Bob Brown",
+        "submissionDate": "2024-08-01",
+        "status": "Approved",
+        "appraisalScore": 88,
+        "lastUpdated": "2024-08-10"
+    },
+    {
+        "facultyName": "Charlie Jones",
+        "submissionDate": "2024-07-05",
+        "status": "Pending",
+        "appraisalScore": 67,
+        "lastUpdated": "2024-07-10"
+    },
+    {
+        "facultyName": "David Miller",
+        "submissionDate": "2024-08-05",
+        "status": "Approved",
+        "appraisalScore": 90,
+        "lastUpdated": "2024-08-12"
+    },
+    {
+        "facultyName": "Ella Davis",
+        "submissionDate": "2024-06-25",
+        "status": "Rejected",
+        "appraisalScore": 95,
+        "lastUpdated": "2024-07-03"
+    },
+    {
+        "facultyName": "Frank Garcia",
+        "submissionDate": "2024-07-20",
+        "status": "Approved",
+        "appraisalScore": 72,
+        "lastUpdated": "2024-07-28"
+    },
+    {
+        "facultyName": "Grace Rodriguez",
+        "submissionDate": "2024-08-11",
+        "status": "Pending",
+        "appraisalScore": 83,
+        "lastUpdated": "2024-08-18"
+    },
+    {
+        "facultyName": "Henry Wilson",
+        "submissionDate": "2024-05-30",
+        "status": "Approved",
+        "appraisalScore": 65,
+        "lastUpdated": "2024-06-05"
+    }
+]
